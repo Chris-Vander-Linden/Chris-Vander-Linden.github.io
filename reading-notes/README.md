@@ -1,3 +1,4 @@
+:books:
 # **Code 301 Reading Notes**
 
 ## 1. daily reading assignment
