@@ -38,3 +38,4 @@
 
 
 Please feel free to visit my [github page](https://github.com/Chris-Vander-Linden)!
+<!-- This content will not appear in the rendered Markdown -->
