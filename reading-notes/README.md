@@ -1,4 +1,5 @@
 ![This is an image](https://www.deltavcodeschool.com/wp-content/uploads/deltav-logo.jpg)
+> Iowa's Premier Code and Digital Marketing School
 # **Code 301 Reading Notes**
 
 ## 1. daily reading assignment
