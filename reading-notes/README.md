@@ -1,4 +1,4 @@
-:books:
+![This is an image](https://www.deltavcodeschool.com/wp-content/uploads/deltav-logo.jpg)
 # **Code 301 Reading Notes**
 
 ## 1. daily reading assignment
