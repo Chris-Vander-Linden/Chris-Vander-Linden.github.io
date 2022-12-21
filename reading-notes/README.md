@@ -1,42 +1,82 @@
 ![This is an image](https://www.deltavcodeschool.com/wp-content/uploads/deltav-logo.jpg)
 > Iowa's Premier Code and Digital Marketing School
 
-# **Code 301 Reading Notes**
+# Reading Notes
 
-## 1. daily reading assignment
-## 2. daily reading assignment
-## 3. daily reading assignment
-## 4. daily reading assignment
-## 5. daily reading assignment
-## 6. daily reading assignment
-## 7. daily reading assignment
-## 8. daily reading assignment
-## 9. daily reading assignment
-## 10. daily reading assignment
-## 11. daily reading assignment
-## 12. daily reading assignment
-## 13. daily reading assignment
-## 14. daily reading assignment
-## 15. daily reading assignment
+## **Code 102 - Intro to Software Development**
+
+### 1. daily reading assignment
+### 2. daily reading assignment
+### 3. daily reading assignment
+### 4. daily reading assignment
+### 5. daily reading assignment
+### 6. daily reading assignment
+### 7. daily reading assignment
+### 8. daily reading assignment
+### 9. daily reading assignment
+### 10. daily reading assignment
+### 11. daily reading assignment
+### 12. daily reading assignment
+### 13. daily reading assignment
+### 14. daily reading assignment
+### 15. daily reading assignment
 
 
-# **Code 401 Reading Notes**
+## **Code 201 - Foundations of Software Development**
 
-## 1. daily reading assignment
-## 2. daily reading assignment
-## 3. daily reading assignment
-## 4. daily reading assignment
-## 5. daily reading assignment
-## 6. daily reading assignment
-## 7. daily reading assignment
-## 8. daily reading assignment
-## 9. daily reading assignment
-## 10. daily reading assignment
-## 11. daily reading assignment
-## 12. daily reading assignment
-## 13. daily reading assignment
-## 14. daily reading assignment
-## 15. daily reading assignment
+### 1. daily reading assignment
+### 2. daily reading assignment
+### 3. daily reading assignment
+### 4. daily reading assignment
+### 5. daily reading assignment
+### 6. daily reading assignment
+### 7. daily reading assignment
+### 8. daily reading assignment
+### 9. daily reading assignment
+### 10. daily reading assignment
+### 11. daily reading assignment
+### 12. daily reading assignment
+### 13. daily reading assignment
+### 14. daily reading assignment
+### 15. daily reading assignment
+
+
+## **Code 301 - Intermediate Software Development**
+
+### 1. daily reading assignment
+### 2. daily reading assignment
+### 3. daily reading assignment
+### 4. daily reading assignment
+### 5. daily reading assignment
+### 6. daily reading assignment
+### 7. daily reading assignment
+### 8. daily reading assignment
+### 9. daily reading assignment
+### 10. daily reading assignment
+### 11. daily reading assignment
+### 12. daily reading assignment
+### 13. daily reading assignment
+### 14. daily reading assignment
+### 15. daily reading assignment
+
+
+## **Code 401 - Advanced Software Development**
+
+### 1. daily reading assignment
+### 2. daily reading assignment
+### 3. daily reading assignment
+### 4. daily reading assignment
+### 5. daily reading assignment
+### 6. daily reading assignment
+### 7. daily reading assignment
+### 8. daily reading assignment
+### 9. daily reading assignment
+### 10. daily reading assignment
+### 11. daily reading assignment
+### 12. daily reading assignment
+### 13. daily reading assignment
+### 14. daily reading assignment
+### 15. daily reading assignment
 
 
 Please feel free to visit my [github page](https://github.com/Chris-Vander-Linden)!
