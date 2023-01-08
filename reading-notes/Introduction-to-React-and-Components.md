@@ -1,3 +1,5 @@
+[Back to Reading Notes](../)
+
 # Class 1: Introduction to React and Components
 
 ---
