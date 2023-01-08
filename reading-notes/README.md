@@ -43,7 +43,7 @@
 
 ## **Code 301 - Intermediate Software Development**
 
-### 1. daily reading assignment
+### 1. Introduction to React and Components
 ### 2. daily reading assignment
 ### 3. daily reading assignment
 ### 4. daily reading assignment
