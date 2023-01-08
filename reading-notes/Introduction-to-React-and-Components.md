@@ -1,4 +1,4 @@
-[Back to Reading Notes](../README.md)
+[Back to Reading Notes](./README.md)
 
 # Class 1: Introduction to React and Components
 
