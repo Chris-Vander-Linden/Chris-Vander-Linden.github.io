@@ -1,8 +1,12 @@
 [Back to Reading Notes](./README.md)
 
+---
+
 # Class 1: Introduction to React and Components
 
----
+## This topic matters as it relates to what I am studying in this module because...
+
+.......
 
 ## Component-Based Architecture
 
@@ -32,7 +36,9 @@
 
 > They are passed one way.  From parent to child.
 
----
+## Things I want to know more about
+
+...........
 
 ## Links to reading material
 
@@ -45,3 +51,5 @@
 [React Docs - Rendering elements](https://reactjs.org/docs/rendering-elements.html)
 
 [React Docs - Components and props](https://reactjs.org/docs/components-and-props.html)
+
+---
