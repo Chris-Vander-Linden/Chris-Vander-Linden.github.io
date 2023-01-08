@@ -16,7 +16,7 @@
 
 - What are the advantages of using component-based architecture?
 
-> The advantages os using component-based architecture include reduced cost to develop and maintain, ease of deploying new compatible versions, being able to reuse components across several applications or systems, makes the applications easier less complex to maintain by breaking it up into smaller component containers, easier to maintain and create improvements.
+> The advantages of using component-based architecture include reduced cost to develop and maintain, ease of deploying new compatible versions, being able to reuse components across several applications or systems, makes the applications easier less complex to maintain by breaking it up into smaller component containers, easier to maintain and create improvements.
 
 ## What is Props and How to Use it in React
 
