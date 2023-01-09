@@ -6,7 +6,7 @@
 
 ## This topic matters as it relates to what I am studying in this module because...
 
-.......
+Websites are more modular based, today.  Components are everywhere. 
 
 ## Component-Based Architecture
 
@@ -38,7 +38,7 @@
 
 ## Things I want to know more about
 
-...........
+I've only used function components and hooks in the past, so I'm not entirely sure where to store data that comes from the server.
 
 ## Links to reading material
 
