@@ -6,25 +6,25 @@
 
 ## This topic matters as it relates to what I am studying in this module because...
 
-... 
+State and props is how React knows which components to re-render. 
 
 ## React lifecycle
 
 - Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
 
-> ...
+> The render phase.
 
 - What is the very first thing to happen in the lifecycle of React?
 
-> ...
+> Mounting.
 
 - Put the following things in the order that they happen:
 
-> ...componentDidMount, render, constructor, componentWillUnmount, React Updates
+> constructor, render, componentDidMount, React Updates, componentWillUnmount.
 
 - What does componentDidMount do?
 
->
+> componentDidMount is used for events that happen outside of the component, such as making API calls.  I think it is similar to the "useEffect" hook in function components.
 
 ## React State Vs Props
 
@@ -63,5 +63,9 @@
 [Bootstrap Shuffle - a class “sandbox”](https://bootstrapshuffle.com/classes)
 
 [Netlify](https://www.netlify.com/)
+
+[React State Vs Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
+
+[Component Lifecycle Events](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 
 ---
