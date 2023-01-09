@@ -30,23 +30,23 @@ State and props is how React knows which components to re-render.
 
 - What types of things can you pass in the props?
 
-> ...
+> Arguments you want to pass, such as the initial count or data you want to have displayed, such as a title.
 
 - What is the big difference between props and state?
 
-> ...
+> Props are handled outside of component while state is handled inside and manages/updates the data.
 
 - When do we re-render our application?
 
-> ...
+> When the state changes, the component re-renders.
 
 - What are some examples of things that we could store in state?
 
-> ...
+> All types of data.  You might update a count, an updated string, or maybe a light/dark theme boolean.
 
 ## Things I want to know more about
 
-...
+I want to learn more about the lifecyle.  It's still difficult for me to visualize it without seeing an actual example.
 
 ## Links to reading material
 
