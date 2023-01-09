@@ -1,16 +1,8 @@
-<style>
-.green {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
 [Back to Reading Notes](./README.md)
 
 ---
 
-# Class 1: Introduction to React and Components {.green}
+# Class 1: Introduction to React and Components
 
 ## This topic matters as it relates to what I am studying in this module because...
 
