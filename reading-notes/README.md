@@ -44,7 +44,7 @@
 ## **Code 301 - Intermediate Software Development**
 
 ### 1. [Introduction to React and Components](/Introduction-to-React-and-Components.md)
-### 2. daily reading assignment
+### 2. [State and Props](/301-2-state-and-props.md)
 ### 3. daily reading assignment
 ### 4. daily reading assignment
 ### 5. daily reading assignment
