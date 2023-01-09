@@ -46,7 +46,7 @@ State and props is how React knows which components to re-render.
 
 ## Things I want to know more about
 
-I want to learn more about the lifecyle.  It's still difficult for me to visualize it without seeing an actual example.
+I want to learn more about the lifecycle.  It's still difficult for me to visualize it without seeing an actual example.
 
 ## Links to reading material
 
