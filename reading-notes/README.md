@@ -43,8 +43,8 @@
 
 ## **Code 301 - Intermediate Software Development**
 
-### 1. [Introduction to React and Components](./Introduction-to-React-and-Components.md)
-### 2. [State and Props](./301-2-state-and-props.md)
+### 1. [Introduction to React and Components](./301-1.md)
+### 2. [State and Props](./301-2.md)
 ### 3. [Passing Functions as Props](./301-3.md)
 ### 4. [daily reading assignment](./301-4.md)
 ### 5. [daily reading assignment](./301-5.md)
