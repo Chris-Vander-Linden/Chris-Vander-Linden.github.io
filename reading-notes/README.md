@@ -45,7 +45,7 @@
 
 ### 1. [Introduction to React and Components](/Introduction-to-React-and-Components.md)
 ### 2. [State and Props](/301-2-state-and-props.md)
-### 3. daily reading assignment
+### 3. [Passing Functions as Props](/301-3-passing-functions-as-props.md)
 ### 4. daily reading assignment
 ### 5. daily reading assignment
 ### 6. daily reading assignment
